@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ncb.wtf/sitemap.xml
